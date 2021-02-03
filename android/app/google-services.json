@@ -19,6 +19,12 @@
           "client_type": 3
         }
       ],
+      
+      "api_key": [	
+        {	
+          "current_key": "API_KEY_HERE"	
+        }	
+      ],
      
       "services": {
         "appinvite_service": {
